@@ -1,0 +1,44 @@
+
+.div{
+    display: flex;
+    margin-top: 10px;
+}    
+
+.img1{
+    background-image: url(https://cdn.vox-cdn.com/thumbor/Lwdtrbo3kmjxuoTNPXaSDSlWpfU=/0x0:2879x1619/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/65901047/001_Jose_Aldo.5.jpg);
+    background-size: 120%;
+    width: 260px;
+    height: 191px;
+    background-color: rgb(187, 39, 39);
+    margin: 20px -2px 0 292px ;  
+}
+.img2{
+    background-image: url(https://avatars.mds.yandex.net/i?id=2a000001858ffeea2955c9a9e309912e088d-1614014-fast-images&n=13);
+    background-size: 110%;
+    width: 260px;
+    height: 191px;
+    background-color: rgb(187, 39, 39);
+    margin: 20px -2px 0 292px ;  
+}
+
+.img3{
+    background-image: url(https://avatars.mds.yandex.net/i?id=bd4dd936783bb184abc682e53329f12e5983e700-3162694-images-thumbs&n=13);
+    background-size: 90%;
+    width: 260px;
+    height: 191px;
+    background-color: rgb(187, 39, 39);
+    margin: 20px -2px 0 292px ;  
+}
+
+.img4{
+    background-image: url(https://avatars.mds.yandex.net/i?id=275de9c1975c022f0c3fd9b23b819b5100791fc9-4570571-images-thumbs&n=13);
+    background-size: 100%;
+    width: 260px;
+    height: 191px;
+    background-color: rgb(187, 39, 39);
+    margin: 20px -2px 0 292px ;  
+}
+  
+h1{
+    margin: 0 0 0 635px;
+}
